@@ -10,7 +10,7 @@ README
 |作者|果冻虾仁|
 |---|---
 |知乎|[![zhihu-shield]][zhihu]
-|公众号|编程往事
+|公众号|SayMeeveTime
 
 
 ****
@@ -85,8 +85,8 @@ ___
 使用一对各三个的反引号：
 ```
 欢迎到访
-我是C++码农
-你可以在知乎、CSDN、简书搜索【果冻虾仁】找到我
+我是Java码农
+你可以在知乎、CSDN、简书搜索【SayMeeveTime】找到我
 ```
 该语法也可以实现代码高亮，见[代码高亮](#代码高亮)
 ### 文字高亮
@@ -145,7 +145,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 注意例2的写法使用了**URL标识符**的形式，在[链接](#链接)一节有介绍。
 >在文末有code-past的定义：
 ```
-[code-past]:/img/codepast-logo.jpg "公众号：编程往事"
+[code-past]:/img/codepast-logo.jpg "公众号：SayMeeveTime"
 ```
 
 链接
