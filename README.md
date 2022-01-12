@@ -9,7 +9,7 @@ README
 	
 |作者|果冻虾仁|
 |---|---
-|知乎|[![zhihu-shield]][zhihu]
+|知乎|[![https://www.zhihu.com/people/ni-bu-yu-wo-wei-xiao]][zhihu]
 |公众号|SayMeeveTime
 
 
